@@ -1,0 +1,1 @@
+# stupid_olimpiad_tasks
